@@ -2,7 +2,7 @@
 ---
 
 # 💫 Acerca del Server:
-🍙 Server Survival 1.20.1<br>💻 CodeSpace<br>🔐 Copia de Seguridad<br>🚨 Serie Survivalito<br><br>
+🍙 Server Survival 1.20.1<br>💻 CodeSpace<br>🔐 Copia de Seguridad<br>🚨 Serie Optimization<br><br>
 
 
 ## 🌐 Redes:
