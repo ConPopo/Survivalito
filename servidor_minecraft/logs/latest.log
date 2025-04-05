@@ -228,3 +228,50 @@
 [19:48:55] [Server thread/INFO]: MrGameBlaze has made the advancement [A Throwaway Joke]
 [19:56:37] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
 [19:56:37] [Server thread/INFO]: MrGameBlaze left the game
+[20:06:59] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:51600] logged in with entity id 106223 at (-249.3522121997453, 63.0, 4.958738989700583)
+[20:06:59] [Server thread/INFO]: MrGameBlaze joined the game
+[20:10:01] [Server thread/INFO]: Norsx_ has completed the challenge [Serious Dedication]
+[20:10:50] [Server thread/INFO]: Dupe[/100.109.78.57:46096] logged in with entity id 106996 at (-289.35321517898984, 64.0, 48.69999998807907)
+[20:10:50] [Server thread/INFO]: Dupe joined the game
+[20:11:28] [Server thread/INFO]: Made MrGameBlaze a server operator
+[20:11:38] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Mi tridente]
+[20:11:39] [Server thread/INFO]: Norsx_ lost connection: Mi tridente
+[20:11:39] [Server thread/INFO]: Norsx_ left the game
+[20:11:46] [Server thread/INFO]: Norsx_[/100.84.44.112:60919] logged in with entity id 107177 at (-296.39440628867203, 66.0, 55.642458485204635)
+[20:11:46] [Server thread/INFO]: Norsx_ joined the game
+[20:11:47] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Digo Azada]
+[20:11:47] [Server thread/INFO]: Norsx_ lost connection: Digo Azada
+[20:11:47] [Server thread/INFO]: Norsx_ left the game
+[20:11:53] [Server thread/INFO]: Norsx_[/100.84.44.112:60920] logged in with entity id 107191 at (-296.39440628867203, 66.0, 55.642458485204635)
+[20:11:53] [Server thread/INFO]: Norsx_ joined the game
+[20:12:43] [Server thread/INFO]: MrGameBlaze was smashed by Norsx_ with [Ano Destroyer]
+[20:12:46] [Server thread/INFO]: [MrGameBlaze: Banned Norsx_: Banned by an operator.]
+[20:12:46] [Server thread/INFO]: Norsx_ lost connection: You are banned from this server
+[20:12:46] [Server thread/INFO]: Norsx_ left the game
+[20:12:46] [Server thread/WARN]: handleDisconnection() called twice
+[20:12:49] [Server thread/INFO]: Disconnecting Norsx_ (/100.84.44.112:60929): You are banned from this server.
+Reason: Banned by an operator.
+[20:12:49] [Server thread/INFO]: Norsx_ (/100.84.44.112:60929) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20:12:49] [Server thread/WARN]: handleDisconnection() called twice
+[20:12:52] [Server thread/INFO]: Disconnecting Norsx_ (/100.84.44.112:60930): You are banned from this server.
+Reason: Banned by an operator.
+[20:12:52] [Server thread/INFO]: Norsx_ (/100.84.44.112:60930) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[20:12:52] [Server thread/WARN]: handleDisconnection() called twice
+[20:13:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:13:18] [Server thread/INFO]: unban Norsx_<--[HERE]
+[20:13:46] [Server thread/INFO]: Unbanned Norsx_
+[20:13:51] [Server thread/INFO]: Norsx_[/100.84.44.112:60949] logged in with entity id 108173 at (-291.05708516489847, 66.0, 55.18857319969906)
+[20:13:51] [Server thread/INFO]: Norsx_ joined the game
+[20:15:35] [Server thread/INFO]: [MrGameBlaze: Banned IP 100.84.44.112: asesino]
+[20:15:35] [Server thread/INFO]: [MrGameBlaze: This ban affects 1 player(s): Norsx_]
+[20:15:35] [Server thread/INFO]: Norsx_ lost connection: You have been IP banned from this server
+[20:15:35] [Server thread/INFO]: Norsx_ left the game
+[20:15:41] [Server thread/INFO]: Disconnecting Norsx_ (/100.84.44.112:60964): Your IP address is banned from this server.
+Reason: asesino
+[20:15:41] [Server thread/INFO]: Norsx_ (/100.84.44.112:60964) lost connection: Your IP address is banned from this server.
+Reason: asesino
+[20:15:41] [Server thread/WARN]: handleDisconnection() called twice
+[20:15:50] [Server thread/INFO]: Nothing changed. The player isn't banned
+[20:15:58] [Server thread/INFO]: [MrGameBlaze: Unbanned IP 100.84.44.112]

@@ -2757,33 +2757,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_brown_wool": "2025-04-05 18:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-04-05 18:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-04-05 18:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-05 18:11:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-04-05 18:11:48 +0000"
+      "has_rose_bush": "2025-04-05 17:17:45 +0000"
     },
     "done": true
   },
@@ -2793,9 +2769,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/purple_dye": {
+  "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
-      "has_red_dye": "2025-04-05 18:11:48 +0000"
+      "has_brown_wool": "2025-04-05 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-05 18:01:43 +0000"
     },
     "done": true
   },
@@ -2811,24 +2793,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/overoverkill": {
-    "criteria": {
-      "overoverkill": "2025-04-05 18:49:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-04-05 18:11:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2025-04-05 18:11:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-04-05 18:08:26 +0000"
@@ -2841,39 +2805,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/red_bundle": {
-    "criteria": {
-      "has_red_dye": "2025-04-05 18:11:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2025-04-05 18:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-04-05 17:17:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-04-05 18:11:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-04-05 18:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2025-04-05 18:11:48 +0000"
     },
     "done": true
   },
@@ -2889,9 +2823,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
-      "has_porkchop": "2025-04-05 18:55:35 +0000"
+      "has_needed_dye": "2025-04-05 18:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-05 18:11:48 +0000"
     },
     "done": true
   },
@@ -2901,15 +2883,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-05 18:08:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-04-05 18:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/overoverkill": {
+    "criteria": {
+      "overoverkill": "2025-04-05 18:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-05 18:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-05 18:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-05 18:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-04-05 20:10:01 +0000"
     },
     "done": true
   },
