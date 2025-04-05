@@ -192,3 +192,8 @@
 [17:16:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [17:17:24] [Server thread/INFO]: Norsx_[/100.84.44.112:59327] logged in with entity id 43966 at (-1227.0363767252336, 131.0, 1298.282238307521)
 [17:17:24] [Server thread/INFO]: Norsx_ joined the game
+[17:26:21] [Server thread/WARN]: Norsx_ moved too quickly! -4.499963348019094,-22.599718563743778,-2.372910100090831
+[17:26:34] [Server thread/WARN]: Norsx_ moved too quickly! 0.0,-16.72678361160112,0.0
+[17:26:54] [Server thread/WARN]: Norsx_ moved too quickly! 0.06348183527893525,20.6084814879913,0.0
+[17:33:02] [Server thread/WARN]: Norsx_ moved too quickly! 2.6172162728461785,-1.1661092609381853,9.629981383803832
+[17:33:58] [Server thread/INFO]: Norsx_ was slain by Iron Golem
