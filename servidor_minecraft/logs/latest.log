@@ -365,3 +365,26 @@ Reason: asesino
 [22:17:10] [Server thread/INFO]: <Norsx_> donde estas
 [22:32:57] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
 [22:32:57] [Server thread/INFO]: MrGameBlaze left the game
+[22:53:55] [Server thread/INFO]: Stopping server
+[22:53:55] [Server thread/INFO]: Saving players
+[22:53:55] [Server thread/INFO]: Norsx_ lost connection: Server closed
+[22:53:55] [Server thread/INFO]: Norsx_ left the game
+[22:53:55] [Server thread/INFO]: Saving worlds
+[22:53:55] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[22:53:55] [Server thread/INFO]: ServerLevel[world]/minecraft:the_nether: waiting for 2209 chunks to unload
+[22:53:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:53:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:54:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:54:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:54:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:54:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:54:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:54:06] [C2ME Storage #3/INFO]: Storage thread Thread[#49,C2ME Storage #3,5,main] stopped
+[22:54:06] [C2ME Storage #2/INFO]: Storage thread Thread[#48,C2ME Storage #2,5,main] stopped
+[22:54:07] [C2ME Storage #1/INFO]: Storage thread Thread[#47,C2ME Storage #1,5,main] stopped
+[22:54:07] [C2ME Storage #6/INFO]: Storage thread Thread[#54,C2ME Storage #6,5,main] stopped
+[22:54:08] [C2ME Storage #5/INFO]: Storage thread Thread[#53,C2ME Storage #5,5,main] stopped
+[22:54:09] [C2ME Storage #4/INFO]: Storage thread Thread[#52,C2ME Storage #4,5,main] stopped
+[22:54:09] [C2ME Storage #9/INFO]: Storage thread Thread[#58,C2ME Storage #9,5,main] stopped
+[22:54:10] [C2ME Storage #8/INFO]: Storage thread Thread[#57,C2ME Storage #8,5,main] stopped
+[22:54:11] [C2ME Storage #7/INFO]: Storage thread Thread[#56,C2ME Storage #7,5,main] stopped
