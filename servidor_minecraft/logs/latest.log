@@ -187,3 +187,8 @@
 [17:07:25] [Server thread/WARN]: Norsx_ moved too quickly! -8.0805145822045,0.24990906720542228,-7.261375954921505
 [17:11:19] [Server thread/INFO]: Villager class_1646['Villager'/39567, l='ServerLevel[world]', x=-1557.74, y=70.00, z=115.41] died, message: 'Villager was slain by Norsx_'
 [17:11:38] [Server thread/WARN]: Norsx_ moved too quickly! 7.201199041761356,6.057390352562223,5.886833544018202
+[17:15:26] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[17:15:26] [Server thread/INFO]: Norsx_ left the game
+[17:16:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:17:24] [Server thread/INFO]: Norsx_[/100.84.44.112:59327] logged in with entity id 43966 at (-1227.0363767252336, 131.0, 1298.282238307521)
+[17:17:24] [Server thread/INFO]: Norsx_ joined the game
