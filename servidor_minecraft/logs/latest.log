@@ -276,3 +276,9 @@ Reason: asesino
 [20:15:50] [Server thread/INFO]: Nothing changed. The player isn't banned
 [20:15:58] [Server thread/INFO]: [MrGameBlaze: Unbanned IP 100.84.44.112]
 [20:16:38] [Server thread/INFO]: [MrGameBlaze: Teleported MrGameBlaze to Dupe]
+[20:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4962ms or 99 ticks behind
+[20:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5565ms or 111 ticks behind
+[20:34:39] [Server thread/INFO]: Dupe lost connection: Disconnected
+[20:34:39] [Server thread/INFO]: Dupe left the game
+[20:35:41] [Server thread/INFO]: MrGameBlaze has made the advancement [Eye Spy]
+[20:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2914ms or 58 ticks behind
