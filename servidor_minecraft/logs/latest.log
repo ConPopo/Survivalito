@@ -169,3 +169,7 @@
 [14:11:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [14:12:25] [Server thread/INFO]: Norsx_[/100.84.44.112:59275] logged in with entity id 10 at (-331.30000001192093, 200.0, -6.300000011920929)
 [14:12:25] [Server thread/INFO]: Norsx_ joined the game
+[14:53:43] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[14:53:43] [Server thread/INFO]: Norsx_ left the game
+[14:54:38] [Server thread/INFO]: Norsx_[/100.84.44.112:63512] logged in with entity id 8632 at (-187.69999998807907, -13.246800019478798, 18.29621131280966)
+[14:54:38] [Server thread/INFO]: Norsx_ joined the game
