@@ -8,16 +8,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-04-03 19:27:23 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-03 22:42:01 +0000",
       "minecraft:beach": "2025-04-03 20:01:34 +0000",
       "minecraft:dark_forest": "2025-04-03 22:43:56 +0000",
       "minecraft:forest": "2025-04-03 19:20:34 +0000",
-      "minecraft:ocean": "2025-04-03 22:47:11 +0000",
       "minecraft:deep_ocean": "2025-04-03 22:47:53 +0000",
-      "minecraft:sunflower_plains": "2025-04-03 19:26:26 +0000",
       "minecraft:river": "2025-04-03 19:18:15 +0000",
-      "minecraft:meadow": "2025-04-03 21:48:25 +0000",
       "minecraft:dripstone_caves": "2025-04-03 21:14:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-03 22:42:01 +0000",
+      "minecraft:ocean": "2025-04-03 22:47:11 +0000",
+      "minecraft:sunflower_plains": "2025-04-03 19:26:26 +0000",
+      "minecraft:cherry_grove": "2025-04-05 17:10:07 +0000",
+      "minecraft:meadow": "2025-04-03 21:48:25 +0000",
+      "minecraft:birch_forest": "2025-04-05 17:07:26 +0000",
+      "minecraft:savanna": "2025-04-05 17:11:13 +0000",
       "minecraft:plains": "2025-04-03 19:18:01 +0000"
     },
     "done": false
@@ -2720,6 +2723,18 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-05 14:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-05 17:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-05 17:06:56 +0000"
     },
     "done": true
   },
