@@ -1439,6 +1439,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-05 21:57:29 +0000",
       "minecraft:nether_wastes": "2025-04-03 20:16:35 +0000",
       "minecraft:warped_forest": "2025-04-03 20:16:06 +0000",
       "minecraft:basalt_deltas": "2025-04-05 14:37:14 +0000"
@@ -3065,9 +3066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-05 21:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-05 21:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-05 21:56:17 +0000"
     },
     "done": true
   },
@@ -3143,6 +3156,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-05 21:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-05 21:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-05 21:42:38 +0000"
@@ -3152,6 +3177,18 @@
   "minecraft:recipes/decorations/orange_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-05 21:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-05 21:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-05 21:56:17 +0000"
     },
     "done": true
   },
