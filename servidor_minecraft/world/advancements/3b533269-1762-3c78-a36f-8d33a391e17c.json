@@ -2805,6 +2805,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/overoverkill": {
+    "criteria": {
+      "overoverkill": "2025-04-05 18:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-04-05 18:11:48 +0000"
