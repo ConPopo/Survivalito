@@ -599,6 +599,7 @@
       "minecraft:witch": "2025-04-03 22:19:58 +0000",
       "minecraft:wither_skeleton": "2025-04-04 21:02:41 +0000",
       "minecraft:husk": "2025-04-03 21:11:20 +0000",
+      "minecraft:ender_dragon": "2025-04-05 21:00:36 +0000",
       "minecraft:piglin": "2025-04-04 21:01:20 +0000",
       "minecraft:breeze": "2025-04-03 21:14:22 +0000",
       "minecraft:silverfish": "2025-04-03 21:23:26 +0000",
@@ -2919,27 +2920,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-05 20:50:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-04-05 20:46:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_end_stone": "2025-04-05 20:50:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-05 20:50:31 +0000"
+      "has_ender_eye": "2025-04-05 20:46:41 +0000"
     },
     "done": true
   },
@@ -2955,9 +2944,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_ender_eye": "2025-04-05 20:46:41 +0000"
+      "entered_end": "2025-04-05 20:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-05 20:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-05 20:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-05 20:50:31 +0000"
     },
     "done": true
   },
@@ -2973,9 +2980,21 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "entered_end": "2025-04-05 20:50:23 +0000"
+      "killed_dragon": "2025-04-05 21:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-05 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-05 21:01:43 +0000"
     },
     "done": true
   },
