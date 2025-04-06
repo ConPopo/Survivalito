@@ -205,3 +205,10 @@
 [18:59:45] [Server thread/WARN]: handleDisconnection() called twice
 [19:18:21] [Server thread/INFO]: Norsx_[/100.84.44.112:60734] logged in with entity id 44565 at (-136.5287947149418, 257.2491870787446, -70.43906779304221)
 [19:18:21] [Server thread/INFO]: Norsx_ joined the game
+[19:23:40] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
+[19:23:40] [Server thread/INFO]: MrGameBlaze left the game
+[19:27:25] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:52708] logged in with entity id 45880 at (268.6938363008295, 89.0, -223.6012685225009)
+[19:27:25] [Server thread/INFO]: MrGameBlaze joined the game
+[19:28:07] [Server thread/INFO]: <MrGameBlaze> hi
+[19:29:37] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[19:29:37] [Server thread/INFO]: Norsx_ left the game
