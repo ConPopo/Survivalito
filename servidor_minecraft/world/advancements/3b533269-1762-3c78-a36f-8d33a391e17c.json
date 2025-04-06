@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-06 14:35:12 +0000",
       "minecraft:flower_forest": "2025-04-03 19:27:23 +0000",
       "minecraft:savanna_plateau": "2025-04-05 23:10:48 +0000",
       "minecraft:beach": "2025-04-03 20:01:34 +0000",
@@ -18,11 +19,13 @@
       "minecraft:dripstone_caves": "2025-04-03 21:14:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-03 22:42:01 +0000",
       "minecraft:ocean": "2025-04-03 22:47:11 +0000",
+      "minecraft:jungle": "2025-04-06 14:41:35 +0000",
       "minecraft:sunflower_plains": "2025-04-03 19:26:26 +0000",
       "minecraft:cherry_grove": "2025-04-05 17:10:07 +0000",
       "minecraft:meadow": "2025-04-03 21:48:25 +0000",
       "minecraft:birch_forest": "2025-04-05 17:07:26 +0000",
       "minecraft:savanna": "2025-04-05 17:11:13 +0000",
+      "minecraft:bamboo_jungle": "2025-04-06 14:42:54 +0000",
       "minecraft:plains": "2025-04-03 19:18:01 +0000"
     },
     "done": false
@@ -3384,6 +3387,24 @@
       "minecraft:turtle": "2025-04-06 14:04:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-06 14:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-06 14:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-06 14:42:09 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
