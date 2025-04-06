@@ -199,3 +199,7 @@
 [18:48:38] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Spectator Mode]
 [18:48:41] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Survival Mode]
 [18:48:54] [Server thread/INFO]: [MrGameBlaze: Made MrGameBlaze no longer a server operator]
+[18:59:45] [Server thread/WARN]: Norsx_ was kicked for floating too long!
+[18:59:45] [Server thread/INFO]: Norsx_ lost connection: Flying is not enabled on this server
+[18:59:45] [Server thread/INFO]: Norsx_ left the game
+[18:59:45] [Server thread/WARN]: handleDisconnection() called twice
