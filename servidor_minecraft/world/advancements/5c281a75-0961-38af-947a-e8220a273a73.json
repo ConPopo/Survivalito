@@ -953,6 +953,7 @@
       "minecraft:blaze": "2025-04-03 20:11:49 +0000",
       "minecraft:skeleton": "2025-04-03 20:35:41 +0000",
       "minecraft:phantom": "2025-04-03 22:15:02 +0000",
+      "minecraft:zombified_piglin": "2025-04-06 21:26:02 +0000",
       "minecraft:witch": "2025-04-06 20:03:54 +0000",
       "minecraft:husk": "2025-04-03 21:11:23 +0000",
       "minecraft:ghast": "2025-04-05 20:29:42 +0000",
@@ -3441,6 +3442,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-04-06 19:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-06 21:24:03 +0000"
     },
     "done": true
   },
