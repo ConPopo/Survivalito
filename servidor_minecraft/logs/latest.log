@@ -1,5 +1,5 @@
-[17:17:40] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[17:17:41] [main/INFO]: Loading 78 mods:
+[00:39:50] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[00:39:52] [main/INFO]: Loading 78 mods:
 	- c2me 0.3.1.3.0+1.21.4
 	   |-- c2me-base 0.3.1.3.0+1.21.4
 	   |-- c2me-client-uncapvd 0.3.1.3.0+1.21.4
@@ -89,203 +89,82 @@
 	- nochatreports 1.21.4-v2.11.0
 	- skinrestorer 2.2.1+1.21-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[17:17:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survivalito/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:17:41] [main/INFO]: Compatibility level set to JAVA_16
-[17:17:41] [main/INFO]: Compatibility level set to JAVA_18
-[17:17:41] [main/INFO]: Compatibility level set to JAVA_21
-[17:17:41] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[17:17:42] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[17:17:42] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[17:17:42] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[17:17:42] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[17:17:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:17:55] [main/INFO]: Loading Collective version 8.1.
-[17:17:55] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[17:17:56] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[17:17:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:18:00] [main/INFO]: Loaded 1370 recipes
-[17:18:00] [main/INFO]: Loaded 1481 advancements
-[17:18:00] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.493 ms
-[17:18:00] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[17:18:00] [Server thread/INFO]: Loading properties
-[17:18:00] [Server thread/INFO]: Default game type: SURVIVAL
-[17:18:00] [Server thread/INFO]: Generating keypair
-[17:18:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:18:00] [Server thread/INFO]: Using epoll channel type
-[17:18:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:18:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:18:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:18:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:18:00] [Server thread/INFO]: Preparing level "world"
-[17:18:00] [Server thread/INFO]: Enforcing safe world random access
-[17:18:02] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 721.9 ms
-[17:18:02] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[17:18:02] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 19.16 ms
-[17:18:02] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 11.06 ms
-[17:18:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[17:18:09] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
-[17:18:10] [Server thread/INFO]: Time elapsed: 7481 ms
-[17:18:10] [Server thread/INFO]: Done (9.142s)! For help, type "help"
-[17:18:24] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:50705] logged in with entity id 24 at (-270.4276641613171, 64.0, 36.69999998807907)
-[17:18:25] [Server thread/INFO]: MrGameBlaze joined the game
-[17:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:23:27] [Server thread/INFO]: Norsx_[/100.84.44.112:58651] logged in with entity id 1331 at (-295.5254066195903, 60.0, 5.480486642339127)
-[17:23:27] [Server thread/INFO]: Norsx_ joined the game
-[17:28:48] [Server thread/INFO]: BOT_1#[/100.126.205.66:51538] logged in with entity id 3267 at (-170.5, 68.0, 23.5)
-[17:28:48] [Server thread/INFO]: BOT_1# joined the game
-[17:29:51] [Server thread/INFO]: BOT_1# has made the advancement [What a Deal!]
-[17:29:52] [Server thread/INFO]: BOT_1# has made the advancement [Cover Me with Diamonds]
-[17:36:44] [Server thread/INFO]: BOT_1# was slain by Zombie
-[17:40:34] [Server thread/WARN]: BOT_1# moved wrongly!
-[17:40:38] [Server thread/WARN]: BOT_1# moved wrongly!
-[17:40:46] [Server thread/INFO]: BOT_1# has made the advancement [Stone Age]
-[17:40:48] [Server thread/WARN]: BOT_1# moved wrongly!
-[17:44:15] [Server thread/INFO]: <MrGameBlaze> xaero-waypoint:Shared Location:S:-103:16:139:10:false:0:Internal-overworld-waypoints
-[17:45:28] [Server thread/INFO]: Norsx_ was blown up by Creeper
-[17:47:30] [Server thread/INFO]: Norsx_ was slain by Spider
-[17:47:58] [Server thread/INFO]: <Norsx_> xaero-waypoint:gui.xaero-deathpoint-old:D:-106:24:132:0:false:0:Internal-overworld-waypoints
-[17:49:17] [Server thread/INFO]: BOT_1# was slain by Zombie
-[17:51:13] [Server thread/INFO]: BOT_1# lost connection: Disconnected
-[17:51:13] [Server thread/INFO]: BOT_1# left the game
-[17:53:06] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[17:53:06] [Server thread/INFO]: MrGameBlaze left the game
-[17:53:59] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:51592] logged in with entity id 11796 at (-109.21897983261766, 71.0, 153.26772386933806)
-[17:53:59] [Server thread/INFO]: MrGameBlaze joined the game
-[17:57:58] [Server thread/INFO]: <Norsx_> -37 5
-[18:03:39] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[18:03:39] [Server thread/INFO]: MrGameBlaze left the game
-[18:13:53] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:51659] logged in with entity id 24590 at (-272.6006062234725, 63.9375, 29.676768914765322)
-[18:13:53] [Server thread/INFO]: MrGameBlaze joined the game
-[18:23:52] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[18:23:52] [Server thread/INFO]: MrGameBlaze left the game
-[18:28:39] [Server thread/INFO]: BOT_1#[/100.126.205.66:52602] logged in with entity id 31270 at (-107.41420073004595, 61.75707492076391, 136.45459816315005)
-[18:28:39] [Server thread/INFO]: BOT_1# joined the game
-[18:28:44] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:52604] logged in with entity id 31578 at (-267.64471928508215, 63.9375, 46.667771815356495)
-[18:28:44] [Server thread/INFO]: MrGameBlaze joined the game
-[18:29:22] [Server thread/INFO]: BOT_1# was shot by Skeleton
-[18:31:43] [Server thread/INFO]: BOT_1# has made the advancement [Sweet Dreams]
-[18:35:02] [Server thread/INFO]: BOT_1# lost connection: Disconnected
-[18:35:02] [Server thread/INFO]: BOT_1# left the game
-[18:48:38] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Spectator Mode]
-[18:48:41] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Survival Mode]
-[18:48:54] [Server thread/INFO]: [MrGameBlaze: Made MrGameBlaze no longer a server operator]
-[18:59:45] [Server thread/WARN]: Norsx_ was kicked for floating too long!
-[18:59:45] [Server thread/INFO]: Norsx_ lost connection: Flying is not enabled on this server
-[18:59:45] [Server thread/INFO]: Norsx_ left the game
-[18:59:45] [Server thread/WARN]: handleDisconnection() called twice
-[19:18:21] [Server thread/INFO]: Norsx_[/100.84.44.112:60734] logged in with entity id 44565 at (-136.5287947149418, 257.2491870787446, -70.43906779304221)
-[19:18:21] [Server thread/INFO]: Norsx_ joined the game
-[19:23:40] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[19:23:40] [Server thread/INFO]: MrGameBlaze left the game
-[19:27:25] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:52708] logged in with entity id 45880 at (268.6938363008295, 89.0, -223.6012685225009)
-[19:27:25] [Server thread/INFO]: MrGameBlaze joined the game
-[19:28:07] [Server thread/INFO]: <MrGameBlaze> hi
-[19:29:37] [Server thread/INFO]: Norsx_ lost connection: Timed out
-[19:29:37] [Server thread/INFO]: Norsx_ left the game
-[19:37:02] [Server thread/INFO]: Norsx_[/100.84.44.112:58528] logged in with entity id 49507 at (-136.60319370564068, 256.0, -70.4244846777233)
-[19:37:02] [Server thread/INFO]: Norsx_ joined the game
-[19:40:14] [Server thread/INFO]: <Norsx_> xaero-waypoint:granja de oro:G:-125:137:-60:6:false:0:Internal-the-nether-waypoints
-[19:58:57] [Server thread/INFO]: Norsx_ fell from a high place
-[20:11:39] [Server thread/WARN]: Norsx_ moved too quickly! 13.247289858968657,-10.697615261550567,6.974784370399927
-[20:33:18] [Server thread/INFO]: Norsx_ was doomed to fall by Zombified Piglin
-[20:39:28] [Server thread/INFO]: <MrGameBlaze> halo
-[20:50:51] [Server thread/INFO]: Norsx_ fell from a high place
-[20:52:59] [Server thread/INFO]: <MrGameBlaze> xaero-waypoint:Mob Farm:M:258:65:-223:15:false:0:Internal-overworld-waypoints
-[20:58:39] [Server thread/INFO]: Norsx_ lost connection: Timed out
-[20:58:39] [Server thread/INFO]: Norsx_ left the game
-[21:00:27] [Server thread/INFO]: Norsx_[/100.84.44.112:60162] logged in with entity id 86952 at (-112.72513042897911, 250.0, -79.2513409119036)
-[21:00:27] [Server thread/INFO]: Norsx_ joined the game
-[21:01:01] [Server thread/INFO]: <MrGameBlaze> eplae
-[21:01:12] [Server thread/INFO]: <Norsx_> me escuchas_
-[21:38:51] [Server thread/INFO]: Norsx_ fell from a high place
-[21:42:46] [Server thread/INFO]: MrGameBlaze was smashed by Norsx_ with [Ano Destroyer]
-[21:43:09] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[21:43:09] [Server thread/INFO]: MrGameBlaze left the game
-[21:44:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:44:10] [Server thread/INFO]: <--[HERE]
-[21:44:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:44:10] [Server thread/INFO]: <--[HERE]
-[21:44:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:44:11] [Server thread/INFO]: <--[HERE]
-[21:45:02] [Server thread/INFO]: Banned IP 100.84.44.112: Banned by an operator.
-[21:45:02] [Server thread/INFO]: This ban affects 1 player(s): Norsx_
-[21:45:02] [Server thread/INFO]: Norsx_ lost connection: You have been IP banned from this server
-[21:45:02] [Server thread/INFO]: Norsx_ left the game
-[21:45:06] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:53276] logged in with entity id 104157 at (-281.1916880843203, 64.0, 29.69999998807907)
-[21:45:06] [Server thread/INFO]: MrGameBlaze joined the game
-[21:46:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:46:37] [Server thread/INFO]: nojoda<--[HERE]
-[21:46:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:46:46] [Server thread/INFO]: dejame jugar njd<--[HERE]
-[21:46:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:46:57] [Server thread/INFO]: <--[HERE]
-[21:46:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:46:58] [Server thread/INFO]: <--[HERE]
-[21:47:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:47:03] [Server thread/INFO]: dejame desbanearme<--[HERE]
-[21:48:04] [Server thread/INFO]: Incorrect argument for command
-[21:48:04] [Server thread/INFO]: ...ardon-ip  100.84.44.11<--[HERE]
-[21:48:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:48:06] [Server thread/INFO]: xd<--[HERE]
-[21:48:13] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
-[21:48:13] [Server thread/INFO]: MrGameBlaze left the game
-[21:48:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:48:43] [Server thread/INFO]: pardpardon-ip 100.84.44.112<--[HERE]
-[21:48:51] [Server thread/INFO]: Unbanned IP 100.84.44.112
-[21:48:56] [Server thread/INFO]: Norsx_[/100.84.44.112:60520] logged in with entity id 104752 at (-45.18660295976795, 128.0, 5.977007190073254)
-[21:48:56] [Server thread/INFO]: Norsx_ joined the game
-[21:49:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:49:07] [Server thread/INFO]: otro mazo y te limpio el inentario<--[HERE]
-[21:49:10] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:53298] logged in with entity id 105000 at (-267.6408992931717, 67.0, 56.984103564809466)
-[21:49:10] [Server thread/INFO]: MrGameBlaze joined the game
-[21:55:00] [Server thread/INFO]: Made MrGameBlaze a server operator
-[21:55:24] [Server thread/INFO]: <MrGameBlaze> clear?
-[21:55:30] [Server thread/INFO]: <Norsx_> como asi?
-[21:55:34] [Server thread/INFO]: <MrGameBlaze> tu sabes
-[21:55:59] [Server thread/INFO]: <Norsx_> ?
-[22:00:22] [Server thread/INFO]: <Norsx_> ultima circunferencia
-[22:00:36] [Server thread/INFO]: <Norsx_> me traes comida pls?
-[22:00:44] [Server thread/INFO]: <MrGameBlaze> bota el mazo
-[22:01:29] [Server thread/INFO]: <Norsx_> ya busque yo
-[22:06:57] [Server thread/INFO]: <Norsx_> yo irme un rato
-[22:07:01] [Server thread/INFO]: <Norsx_> yo ya volver
-[22:07:05] [Server thread/INFO]: <Norsx_> luego
-[22:07:08] [Server thread/INFO]: Norsx_ lost connection: Disconnected
-[22:07:08] [Server thread/INFO]: Norsx_ left the game
-[22:07:54] [Server thread/INFO]: Villager class_1646['Villager'/109348, l='ServerLevel[world]', x=60.62, y=63.00, z=-240.02] died, message: 'Villager was slain by MrGameBlaze using [.* Leviatan *.]'
-[22:08:35] [Server thread/INFO]: Villager class_1646['Villager'/109394, l='ServerLevel[world]', x=-16.44, y=72.00, z=-267.67] died, message: 'Villager was slain by Zombie'
-[22:08:42] [Server thread/INFO]: Villager class_1646['Villager'/109483, l='ServerLevel[world]', x=-34.30, y=69.00, z=-298.70] died, message: 'Villager was slain by Zombie'
-[22:09:04] [Server thread/INFO]: Norsx_[/100.109.78.57:33102] logged in with entity id 114406 at (-40.87906465738793, 128.0, 9.154823283601763)
-[22:09:04] [Server thread/INFO]: Norsx_ joined the game
-[22:09:20] [Server thread/INFO]: Norsx_ lost connection: Disconnected
-[22:09:20] [Server thread/INFO]: Norsx_ left the game
+[00:39:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survivalito/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:39:53] [main/INFO]: Compatibility level set to JAVA_16
+[00:39:53] [main/INFO]: Compatibility level set to JAVA_18
+[00:39:53] [main/INFO]: Compatibility level set to JAVA_21
+[00:39:53] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[00:39:54] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[00:39:54] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[00:39:54] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[00:39:55] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[00:39:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:40:13] [main/INFO]: Loading Collective version 8.1.
+[00:40:14] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[00:40:15] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[00:40:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:40:22] [main/INFO]: Loaded 1370 recipes
+[00:40:22] [main/INFO]: Loaded 1481 advancements
+[00:40:23] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.589 ms
+[00:40:23] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:40:23] [Server thread/INFO]: Loading properties
+[00:40:23] [Server thread/INFO]: Default game type: SURVIVAL
+[00:40:23] [Server thread/INFO]: Generating keypair
+[00:40:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:40:23] [Server thread/INFO]: Using epoll channel type
+[00:40:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:40:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:40:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:40:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:40:23] [Server thread/INFO]: Preparing level "world"
+[00:40:23] [Server thread/INFO]: Enforcing safe world random access
+[00:40:25] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 921.3 ms
+[00:40:25] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[00:40:25] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 23.23 ms
+[00:40:25] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 9.264 ms
+[00:40:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[00:40:36] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
+[00:40:37] [Server thread/INFO]: Preparing spawn area: 26%
+[00:40:37] [Server thread/INFO]: Time elapsed: 11372 ms
+[00:40:37] [Server thread/INFO]: Done (13.519s)! For help, type "help"
+[00:41:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:43:57] [Server thread/INFO]: Norsx_[/100.84.44.112:65017] logged in with entity id 11 at (-40.87906465738793, 128.0, 9.154823283601763)
+[00:43:57] [Server thread/INFO]: Norsx_ joined the game
+[00:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
