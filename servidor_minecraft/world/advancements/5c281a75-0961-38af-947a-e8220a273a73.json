@@ -3676,6 +3676,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-08 22:43:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/overoverkill": {
     "criteria": {
       "overoverkill": "2025-04-08 22:38:34 +0000"
