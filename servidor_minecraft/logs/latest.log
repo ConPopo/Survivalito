@@ -192,3 +192,19 @@
 [20:39:16] [Server thread/INFO]: <MrGameBlaze> hay vuelvo
 [20:39:21] [Server thread/INFO]: <Norsx_> DELE
 [20:39:24] [Server thread/INFO]: <Norsx_> dele
+[20:50:21] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[20:50:21] [Server thread/INFO]: Norsx_ left the game
+[20:50:21] [Server thread/WARN]: handleDisconnection() called twice
+[20:50:49] [Server thread/INFO]: Norsx_[/100.84.44.112:56524] logged in with entity id 23826 at (-268.08559781800085, 65.25220334025373, 25.903347138730435)
+[20:50:49] [Server thread/INFO]: Norsx_ joined the game
+[20:50:57] [Server thread/INFO]: <Norsx_> mano
+[20:51:00] [Server thread/INFO]: <Norsx_> volviste?
+[20:52:15] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[20:52:15] [Server thread/INFO]: Norsx_ left the game
+[20:52:42] [Server thread/INFO]: Norsx_[/100.84.44.112:56583] logged in with entity id 24617 at (-268.4552555276597, 64.0, 26.114070734336757)
+[20:52:42] [Server thread/INFO]: Norsx_ joined the game
+[20:53:11] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[20:53:11] [Server thread/INFO]: Norsx_ left the game
+[20:53:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@e38d000[id=3b533269-1762-3c78-a36f-8d33a391e17c,name=Norsx_,properties={}] lost connection: Timed out
+[20:56:22] [Server thread/INFO]: Norsx_[/100.84.44.112:61948] logged in with entity id 25689 at (-268.4552555276597, 64.0, 26.114070734336757)
+[20:56:22] [Server thread/INFO]: Norsx_ joined the game
