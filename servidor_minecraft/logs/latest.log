@@ -177,3 +177,4 @@
 [20:27:46] [Server thread/WARN]: MrGameBlaze moved too quickly! 9.660599129056408,1.0244240882136921,2.5661507906226007
 [20:47:16] [Server thread/WARN]: MrGameBlaze moved too quickly! -4.184434527714245,14.723851815563066,-9.736299506564137
 [20:47:54] [Server thread/WARN]: MrGameBlaze moved too quickly! -0.558732007231356,12.32998538301841,-0.21995365616555773
+[20:53:23] [Server thread/INFO]: Villager class_1646['Villager'/21478, l='ServerLevel[world]', x=-125.48, y=91.44, z=-934.98] died, message: 'Villager suffocated in a wall'
