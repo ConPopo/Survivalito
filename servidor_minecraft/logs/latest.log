@@ -170,3 +170,5 @@
 [21:44:43] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:53461] logged in with entity id 97 at (-97.39069831342053, 73.0, -920.2511873819556)
 [21:44:44] [Server thread/INFO]: MrGameBlaze joined the game
 [21:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21937ms or 438 ticks behind
+[22:01:49] [Server thread/INFO]: Villager class_1646['Farmer'/14858, l='ServerLevel[world]', x=112.29, y=72.00, z=207.62] died, message: 'Farmer was slain by Vindicator'
+[22:01:53] [Server thread/INFO]: Villager class_1646['Villager'/14795, l='ServerLevel[world]', x=102.70, y=71.00, z=201.82] died, message: 'Villager was slain by Vindicator'
