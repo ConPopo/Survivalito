@@ -172,3 +172,6 @@
 [19:59:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8331ms or 166 ticks behind
 [19:59:36] [Server thread/WARN]: UUID of added entity already exists: class_1452['Pig'/736, l='ServerLevel[world]', x=-136.80, y=65.00, z=81.33]
 [19:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[20:24:21] [Server thread/INFO]: <MrGameBlaze> OKY
+[20:27:46] [Server thread/INFO]: <MrGameBlaze> H
+[20:27:46] [Server thread/WARN]: MrGameBlaze moved too quickly! 9.660599129056408,1.0244240882136921,2.5661507906226007
