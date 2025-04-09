@@ -172,3 +172,8 @@
 [21:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21937ms or 438 ticks behind
 [22:01:49] [Server thread/INFO]: Villager class_1646['Farmer'/14858, l='ServerLevel[world]', x=112.29, y=72.00, z=207.62] died, message: 'Farmer was slain by Vindicator'
 [22:01:53] [Server thread/INFO]: Villager class_1646['Villager'/14795, l='ServerLevel[world]', x=102.70, y=71.00, z=201.82] died, message: 'Villager was slain by Vindicator'
+[22:05:49] [Server thread/INFO]: Villager class_1646['Cleric'/14855, l='ServerLevel[world]', x=118.23, y=68.00, z=170.96] died, message: 'Cleric was slain by Vindicator'
+[22:11:48] [Server thread/WARN]: Norsx_ moved too quickly! 0.3811474715191707,-10.572296235509071,1.5708949281061848
+[22:12:02] [Server thread/INFO]: Villager class_1646['Farmer'/14865, l='ServerLevel[world]', x=112.19, y=71.92, z=206.86] died, message: 'Farmer was slain by Zombie'
+[22:12:09] [Server thread/INFO]: Villager class_1646['Weaponsmith'/14794, l='ServerLevel[world]', x=108.37, y=66.00, z=179.77] died, message: 'Weaponsmith was slain by Vindicator'
+[22:12:17] [Server thread/INFO]: Villager class_1646['Weaponsmith'/14857, l='ServerLevel[world]', x=105.46, y=71.00, z=162.50] died, message: 'Weaponsmith was shot by Pillager'
