@@ -3520,5 +3520,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-09 22:16:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
