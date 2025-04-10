@@ -198,3 +198,17 @@
 [23:35:41] [Server thread/INFO]: Norsx_[/100.84.44.112:54317] logged in with entity id 55334 at (-144.35903755129266, 69.0, -927.1594246030199)
 [23:35:41] [Server thread/INFO]: Norsx_ joined the game
 [23:50:35] [Server thread/INFO]: Norsx_ has made the advancement [Into Fire]
+[23:57:46] [Server thread/INFO]: [MrGameBlaze: Removed effect Invisibility from Norsx_]
+[23:57:48] [Server thread/INFO]: Norsx_ was slain by MrGameBlaze using [.* Desgarra Almas *.]
+[23:58:06] [Server thread/INFO]: [MrGameBlaze: Teleported Norsx_ to MrGameBlaze]
+[23:58:34] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
+[23:58:34] [Server thread/INFO]: Norsx_ left the game
+[23:58:34] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Kicked by an operator]
+[23:58:34] [Server thread/WARN]: handleDisconnection() called twice
+[23:58:38] [Server thread/INFO]: Norsx_[/100.84.44.112:54464] logged in with entity id 72190 at (-145.21273907857287, 70.0, -959.4271583204761)
+[23:58:39] [Server thread/INFO]: Norsx_ joined the game
+[23:58:50] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Kicked by an operator]
+[23:58:50] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
+[23:58:50] [Server thread/INFO]: Norsx_ left the game
+[23:58:55] [Server thread/INFO]: Norsx_[/100.84.44.112:54466] logged in with entity id 72236 at (-143.36876370476446, 71.0, -951.8128843495396)
+[23:58:55] [Server thread/INFO]: Norsx_ joined the game
