@@ -180,3 +180,13 @@
 [21:43:22] [Server thread/WARN]: Norsx_ moved too quickly! 31.92013185727052,-2.134296922040761,-29.04105251983333
 [21:43:29] [Server thread/WARN]: Norsx_ moved too quickly! -16.891922610376525,-3.8719686515801754,-3.0618660867600056
 [22:12:05] [Server thread/INFO]: <MrGameBlaze> reutiliza las calabas
+[22:22:32] [Server thread/INFO]: [MrGameBlaze: Set the weather to rain & thunder]
+[22:23:41] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
+[22:23:41] [Server thread/INFO]: Norsx_ left the game
+[22:23:41] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Kicked by an operator]
+[22:23:41] [Server thread/WARN]: handleDisconnection() called twice
+[22:23:45] [Server thread/INFO]: Norsx_[/100.84.44.112:51193] logged in with entity id 56187 at (-342.7010027632471, 62.94100570252341, -1217.1180143420365)
+[22:23:45] [Server thread/INFO]: Norsx_ joined the game
+[22:23:55] [Server thread/WARN]: Norsx_ moved too quickly! 2.813898497918842,0.06718360178984994,33.729249807999736
+[22:25:34] [Server thread/WARN]: Norsx_ moved too quickly! -1.9475812280116997,-0.43298766126136456,-44.41685803074154
+[22:26:52] [Server thread/INFO]: MrGameBlaze has reached the goal [Postmortal]
