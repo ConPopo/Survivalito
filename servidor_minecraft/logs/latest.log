@@ -1,214 +1,70 @@
-[21:43:47] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[21:43:48] [main/INFO]: Loading 78 mods:
-	- c2me 0.3.1.3.0+1.21.4
-	   |-- c2me-base 0.3.1.3.0+1.21.4
-	   |-- c2me-client-uncapvd 0.3.1.3.0+1.21.4
-	   |-- c2me-fixes-chunkio-threading-issues 0.3.1.3.0+1.21.4
-	   |-- c2me-fixes-general-threading-issues 0.3.1.3.0+1.21.4
-	   |-- c2me-fixes-worldgen-threading-issues 0.3.1.3.0+1.21.4
-	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.1.3.0+1.21.4
-	   |-- c2me-notickvd 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-allocs 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-chunkio 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-dfc 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-math 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-scheduling 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-worldgen-general 0.3.1.3.0+1.21.4
-	   |-- c2me-opts-worldgen-vanilla 0.3.1.3.0+1.21.4
-	   |-- c2me-rewrites-chunk-serializer 0.3.1.3.0+1.21.4
-	   |-- c2me-rewrites-chunk-system 0.3.1.3.0+1.21.4
-	   |-- c2me-rewrites-chunkio 0.3.1.3.0+1.21.4
-	   |-- c2me-server-utils 0.3.1.3.0+1.21.4
-	   |-- c2me-threading-lighting 0.3.1.3.0+1.21.4
-	   |-- com_electronwill_night-config_core 3.6.5
-	   |-- com_electronwill_night-config_toml 3.6.5
-	   |-- com_ibm_async_asyncutil 0.1.0
-	   |-- io_reactivex_rxjava3_rxjava 3.1.8
-	   |-- mixinsquared 0.2.0-beta.6
-	   |-- net_objecthunter_exp4j 0.4.8
-	   |-- org_jctools_jctools-core 4.0.5
-	   \-- org_reactivestreams_reactive-streams 1.0.4
-	- clumps 22.0.0.1
-	- collective 8.1
-	- fabric-api 0.119.2+1.21.4
-	   |-- fabric-api-base 0.4.54+b47eab6b04
-	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
-	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
-	   |-- fabric-block-api-v1 1.0.31+7feeb73304
-	   |-- fabric-block-view-api-v2 1.0.20+9c49cc8c04
-	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
-	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
-	   |-- fabric-command-api-v1 1.2.62+f71b366f04
-	   |-- fabric-command-api-v2 2.2.41+e496eb1504
-	   |-- fabric-commands-v0 0.2.79+df3654b304
-	   |-- fabric-content-registries-v0 9.1.19+25d1a67604
-	   |-- fabric-convention-tags-v1 2.1.20+7f945d5b04
-	   |-- fabric-convention-tags-v2 2.14.1+1edcd29104
-	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
-	   |-- fabric-data-attachment-api-v1 1.6.2+e99da0f704
-	   |-- fabric-data-generation-api-v1 22.3.1+0f4e5f5504
-	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
-	   |-- fabric-entity-events-v1 2.0.15+62245bef04
-	   |-- fabric-events-interaction-v0 4.0.4+a4eebcf004
-	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
-	   |-- fabric-item-api-v1 11.3.0+ee91fa1f04
-	   |-- fabric-item-group-api-v1 4.2.2+fcb9601404
-	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
-	   |-- fabric-keybindings-v0 0.2.55+df3654b304
-	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
-	   |-- fabric-loot-api-v2 3.0.38+3f89f5a504
-	   |-- fabric-loot-api-v3 1.0.26+203e6b2304
-	   |-- fabric-message-api-v1 6.0.25+7feeb73304
-	   |-- fabric-model-loading-api-v1 4.3.0+ae23723504
-	   |-- fabric-networking-api-v1 4.4.0+db5e668204
-	   |-- fabric-object-builder-api-v1 18.0.14+38b0d59804
-	   |-- fabric-particles-v1 4.0.14+7feeb73304
-	   |-- fabric-recipe-api-v1 8.1.1+640e77ae04
-	   |-- fabric-registry-sync-v0 6.1.11+4a9c1ece04
-	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
-	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
-	   |-- fabric-rendering-data-attachment-v1 0.3.58+73761d2e04
-	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
-	   |-- fabric-rendering-v1 10.2.1+0d31b09f04
-	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
-	   |-- fabric-resource-loader-v0 3.1.1+360374ac04
-	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
-	   |-- fabric-screen-handler-api-v1 1.3.118+7feeb73304
-	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
-	   |-- fabric-tag-api-v1 1.0.7+7d48d43904
-	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
-	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
-	- fabricloader 0.16.10
-	   \-- mixinextras 0.4.1
-	- ferritecore 7.1.1
-	- infinitetrading 4.6
-	- java 21
-	- krypton 0.2.8
-	   \-- com_velocitypowered_velocity-native 3.3.0-SNAPSHOT
-	- minecraft 1.21.4
-	- nochatreports 1.21.4-v2.11.0
-	- skinrestorer 2.2.1+1.21-fabric
-	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[21:43:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survivalito/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:43:48] [main/INFO]: Compatibility level set to JAVA_16
-[21:43:48] [main/INFO]: Compatibility level set to JAVA_18
-[21:43:48] [main/INFO]: Compatibility level set to JAVA_21
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[21:43:49] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[21:43:49] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[21:43:49] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[21:43:50] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[21:43:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:44:09] [main/INFO]: Loading Collective version 8.1.
-[21:44:09] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[21:44:10] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[21:44:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:44:17] [main/INFO]: Loaded 1370 recipes
-[21:44:17] [main/INFO]: Loaded 1481 advancements
-[21:44:17] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.999 ms
-[21:44:17] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[21:44:17] [Server thread/INFO]: Loading properties
-[21:44:17] [Server thread/INFO]: Default game type: SURVIVAL
-[21:44:17] [Server thread/INFO]: Generating keypair
-[21:44:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:44:18] [Server thread/INFO]: Using epoll channel type
-[21:44:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:44:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:44:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:44:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:44:18] [Server thread/INFO]: Preparing level "world"
-[21:44:18] [Server thread/INFO]: Enforcing safe world random access
-[21:44:19] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 852.0 ms
-[21:44:19] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[21:44:20] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 17.57 ms
-[21:44:20] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 19.38 ms
-[21:44:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:44:31] [Server thread/INFO]: Preparing spawn area: 69%
-[21:44:31] [Server thread/INFO]: Time elapsed: 11487 ms
-[21:44:31] [Server thread/INFO]: Done (13.465s)! For help, type "help"
-[21:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
-[21:44:40] [Server thread/INFO]: Norsx_[/100.84.44.112:63589] logged in with entity id 11 at (-278.69999998807907, 65.0, 21.30000001192093)
-[21:44:40] [Server thread/INFO]: Norsx_ joined the game
-[21:44:43] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:53461] logged in with entity id 97 at (-97.39069831342053, 73.0, -920.2511873819556)
-[21:44:44] [Server thread/INFO]: MrGameBlaze joined the game
-[21:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21937ms or 438 ticks behind
-[22:01:49] [Server thread/INFO]: Villager class_1646['Farmer'/14858, l='ServerLevel[world]', x=112.29, y=72.00, z=207.62] died, message: 'Farmer was slain by Vindicator'
-[22:01:53] [Server thread/INFO]: Villager class_1646['Villager'/14795, l='ServerLevel[world]', x=102.70, y=71.00, z=201.82] died, message: 'Villager was slain by Vindicator'
-[22:05:49] [Server thread/INFO]: Villager class_1646['Cleric'/14855, l='ServerLevel[world]', x=118.23, y=68.00, z=170.96] died, message: 'Cleric was slain by Vindicator'
-[22:11:48] [Server thread/WARN]: Norsx_ moved too quickly! 0.3811474715191707,-10.572296235509071,1.5708949281061848
-[22:12:02] [Server thread/INFO]: Villager class_1646['Farmer'/14865, l='ServerLevel[world]', x=112.19, y=71.92, z=206.86] died, message: 'Farmer was slain by Zombie'
-[22:12:09] [Server thread/INFO]: Villager class_1646['Weaponsmith'/14794, l='ServerLevel[world]', x=108.37, y=66.00, z=179.77] died, message: 'Weaponsmith was slain by Vindicator'
-[22:12:17] [Server thread/INFO]: Villager class_1646['Weaponsmith'/14857, l='ServerLevel[world]', x=105.46, y=71.00, z=162.50] died, message: 'Weaponsmith was shot by Pillager'
-[22:16:24] [Server thread/INFO]: Norsx_ has completed the challenge [Hero of the Village]
-[22:22:01] [Server thread/INFO]: <MrGameBlaze> aplana webon
-[22:22:04] [Server thread/INFO]: <MrGameBlaze> deja a los golem
-[22:22:04] [Server thread/INFO]: <Norsx_> ya
-[22:22:09] [Server thread/INFO]: <Norsx_> esta aplanado
-[22:22:09] [Server thread/INFO]: <MrGameBlaze> el oltro nivel
-[22:22:15] [Server thread/INFO]: <Norsx_> ?
-[22:22:18] [Server thread/INFO]: <MrGameBlaze> asi
-[22:22:29] [Server thread/INFO]: <MrGameBlaze> para que el agua baje
-[22:23:18] [Server thread/INFO]: Norsx_ lost connection: Disconnected
-[22:23:18] [Server thread/INFO]: Norsx_ left the game
-[23:27:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[23:27:50] [Server thread/INFO]: ...rGameBlaze<--[HERE]
-[23:28:06] [Server thread/INFO]: You whisper to MrGameBlaze: mano
-[23:28:09] [Server thread/INFO]: <MrGameBlaze> queoa
-[23:28:20] [Server thread/INFO]: You whisper to MrGameBlaze: responde en discord
-[23:28:36] [Server thread/INFO]: <MrGameBlaze> tra
-[23:28:49] [Server thread/INFO]: You whisper to MrGameBlaze: tra?
-[23:35:41] [Server thread/INFO]: Norsx_[/100.84.44.112:54317] logged in with entity id 55334 at (-144.35903755129266, 69.0, -927.1594246030199)
-[23:35:41] [Server thread/INFO]: Norsx_ joined the game
-[23:50:35] [Server thread/INFO]: Norsx_ has made the advancement [Into Fire]
-[23:57:46] [Server thread/INFO]: [MrGameBlaze: Removed effect Invisibility from Norsx_]
-[23:57:48] [Server thread/INFO]: Norsx_ was slain by MrGameBlaze using [.* Desgarra Almas *.]
-[23:58:06] [Server thread/INFO]: [MrGameBlaze: Teleported Norsx_ to MrGameBlaze]
-[23:58:34] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
-[23:58:34] [Server thread/INFO]: Norsx_ left the game
-[23:58:34] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Kicked by an operator]
-[23:58:34] [Server thread/WARN]: handleDisconnection() called twice
-[23:58:38] [Server thread/INFO]: Norsx_[/100.84.44.112:54464] logged in with entity id 72190 at (-145.21273907857287, 70.0, -959.4271583204761)
-[23:58:39] [Server thread/INFO]: Norsx_ joined the game
-[23:58:50] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Kicked by an operator]
-[23:58:50] [Server thread/INFO]: Norsx_ lost connection: Kicked by an operator
-[23:58:50] [Server thread/INFO]: Norsx_ left the game
-[23:58:55] [Server thread/INFO]: Norsx_[/100.84.44.112:54466] logged in with entity id 72236 at (-143.36876370476446, 71.0, -951.8128843495396)
-[23:58:55] [Server thread/INFO]: Norsx_ joined the game
+[00:18:17] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:18:17] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:18:17] [Server thread/INFO]: Norsx_ left the game
+[00:18:22] [Server thread/INFO]: Norsx_[/100.84.44.112:54661] logged in with entity id 85540 at (-125.20581065873182, 73.3495179288922, -877.5353279001802)
+[00:18:22] [Server thread/INFO]: Norsx_ joined the game
+[00:18:29] [Server thread/INFO]: <MrGameBlaze> v/kick Norsx_ Por musulman
+[00:18:31] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:18:31] [Server thread/INFO]: Norsx_ left the game
+[00:18:31] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:18:31] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:36] [Server thread/INFO]: Norsx_[/100.84.44.112:54663] logged in with entity id 85664 at (-69.33344581530555, 118.98836439086445, -755.8261887147994)
+[00:18:36] [Server thread/INFO]: Norsx_ joined the game
+[00:18:37] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:18:37] [Server thread/INFO]: Norsx_ left the game
+[00:18:37] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:18:37] [Server thread/WARN]: handleDisconnection() called twice
+[00:18:41] [Server thread/INFO]: Norsx_[/100.84.44.112:54665] logged in with entity id 85801 at (-69.64058053831116, 116.31602169783032, -753.2601440782139)
+[00:18:41] [Server thread/INFO]: Norsx_ joined the game
+[00:18:43] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:18:43] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:18:43] [Server thread/INFO]: Norsx_ left the game
+[00:18:46] [Server thread/INFO]: Norsx_[/100.84.44.112:54666] logged in with entity id 85934 at (-70.28482646973762, 112.74189686234307, -748.8541125253811)
+[00:18:46] [Server thread/INFO]: Norsx_ joined the game
+[00:18:52] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:18:52] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:18:52] [Server thread/INFO]: Norsx_ left the game
+[00:18:57] [Server thread/INFO]: Norsx_[/100.84.44.112:54668] logged in with entity id 86184 at (-115.95110725069492, 100.84139853353754, -580.5276185052223)
+[00:18:57] [Server thread/INFO]: Norsx_ joined the game
+[00:19:01] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:01] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:01] [Server thread/INFO]: Norsx_ left the game
+[00:19:05] [Server thread/INFO]: Norsx_[/100.84.44.112:54669] logged in with entity id 86434 at (-132.72407627448473, 106.57292171092298, -514.4912726142264)
+[00:19:05] [Server thread/INFO]: Norsx_ joined the game
+[00:19:06] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:06] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:06] [Server thread/INFO]: Norsx_ left the game
+[00:19:10] [Server thread/INFO]: Norsx_[/100.84.44.112:54671] logged in with entity id 86625 at (-132.76860821704906, 105.73390206805985, -514.1390648933063)
+[00:19:10] [Server thread/INFO]: Norsx_ joined the game
+[00:19:12] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:12] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:12] [Server thread/INFO]: Norsx_ left the game
+[00:19:15] [Server thread/INFO]: Norsx_[/100.84.44.112:54672] logged in with entity id 86857 at (-134.73737140889853, 105.49416227712946, -506.83226765322894)
+[00:19:15] [Server thread/INFO]: Norsx_ joined the game
+[00:19:16] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:16] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:16] [Server thread/INFO]: Norsx_ left the game
+[00:19:19] [Server thread/INFO]: Norsx_[/100.84.44.112:54673] logged in with entity id 87188 at (-134.8593256864133, 104.20213525692928, -506.1688529358811)
+[00:19:19] [Server thread/INFO]: Norsx_ joined the game
+[00:19:21] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:21] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:21] [Server thread/INFO]: Norsx_ left the game
+[00:19:24] [Server thread/INFO]: Norsx_[/100.84.44.112:54674] logged in with entity id 87495 at (-135.39940445240194, 101.4141045319474, -503.59412902431296)
+[00:19:24] [Server thread/INFO]: Norsx_ joined the game
+[00:19:25] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:25] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:25] [Server thread/INFO]: Norsx_ left the game
+[00:19:28] [Server thread/INFO]: Norsx_[/100.84.44.112:54678] logged in with entity id 87869 at (-135.4778714520336, 100.41536740829672, -503.2107490854843)
+[00:19:28] [Server thread/INFO]: Norsx_ joined the game
+[00:19:30] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:30] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:30] [Server thread/INFO]: Norsx_ left the game
+[00:19:35] [Server thread/INFO]: Norsx_[/100.84.44.112:54679] logged in with entity id 88283 at (-136.20271761890544, 97.40607674912557, -500.57090778303103)
+[00:19:35] [Server thread/INFO]: Norsx_ joined the game
+[00:19:36] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: Por musulman]
+[00:19:36] [Server thread/INFO]: Norsx_ lost connection: Por musulman
+[00:19:36] [Server thread/INFO]: Norsx_ left the game
+[00:19:41] [Server thread/INFO]: Norsx_[/100.84.44.112:54680] logged in with entity id 88724 at (-136.79611414389134, 94.58910995133755, -498.46246693004395)
+[00:19:41] [Server thread/INFO]: Norsx_ joined the game
+[00:20:15] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
+[00:20:15] [Server thread/INFO]: MrGameBlaze left the game
