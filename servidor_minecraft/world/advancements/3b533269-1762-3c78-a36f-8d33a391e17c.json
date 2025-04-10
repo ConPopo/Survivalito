@@ -29,6 +29,7 @@
       "minecraft:birch_forest": "2025-04-05 17:07:26 +0000",
       "minecraft:savanna": "2025-04-05 17:11:13 +0000",
       "minecraft:bamboo_jungle": "2025-04-06 14:42:54 +0000",
+      "minecraft:windswept_savanna": "2025-04-10 21:41:23 +0000",
       "minecraft:plains": "2025-04-03 19:18:01 +0000"
     },
     "done": false
@@ -3641,6 +3642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 21:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-04-10 21:38:38 +0000"
@@ -3707,6 +3714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 21:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-10 21:17:11 +0000"
@@ -3746,6 +3759,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-10 21:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-10 21:54:14 +0000"
     },
     "done": true
   },
