@@ -175,3 +175,5 @@
 [16:19:21] [Server thread/WARN]: handleDisconnection() called twice
 [16:19:51] [Server thread/INFO]: Norsx_[/100.84.44.112:64742] logged in with entity id 6479 at (-287.1981074764654, 64.0, -1159.7331996115797)
 [16:19:51] [Server thread/INFO]: Norsx_ joined the game
+[16:25:52] [Server thread/WARN]: Norsx_ moved too quickly! 1.4477630337712526,9.050202049187249,21.41938803395874
+[16:25:54] [Server thread/WARN]: Norsx_ moved too quickly! -0.13208745413908218,-0.8834768219545879,32.554553599163
