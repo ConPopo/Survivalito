@@ -166,3 +166,7 @@
 [15:33:04] [Server thread/INFO]: Norsx_[/100.84.44.112:64188] logged in with entity id 10 at (-294.41437156053183, 64.0, -1173.5284885570895)
 [15:33:04] [Server thread/INFO]: Norsx_ joined the game
 [15:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[15:42:59] [Server thread/INFO]: Norsx_ lost connection: Disconnected
+[15:42:59] [Server thread/INFO]: Norsx_ left the game
+[15:43:04] [Server thread/INFO]: Norsx_[/100.84.44.112:64374] logged in with entity id 1349 at (-287.5872438471776, 64.0, -1145.91414683251)
+[15:43:04] [Server thread/INFO]: Norsx_ joined the game
