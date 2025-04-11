@@ -170,3 +170,8 @@
 [15:42:59] [Server thread/INFO]: Norsx_ left the game
 [15:43:04] [Server thread/INFO]: Norsx_[/100.84.44.112:64374] logged in with entity id 1349 at (-287.5872438471776, 64.0, -1145.91414683251)
 [15:43:04] [Server thread/INFO]: Norsx_ joined the game
+[16:19:21] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[16:19:21] [Server thread/INFO]: Norsx_ left the game
+[16:19:21] [Server thread/WARN]: handleDisconnection() called twice
+[16:19:51] [Server thread/INFO]: Norsx_[/100.84.44.112:64742] logged in with entity id 6479 at (-287.1981074764654, 64.0, -1159.7331996115797)
+[16:19:51] [Server thread/INFO]: Norsx_ joined the game
