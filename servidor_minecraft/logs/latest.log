@@ -187,3 +187,9 @@
 [22:05:33] [Server thread/INFO]: <MrGameBlaze> -640 -467
 [22:06:29] [Server thread/INFO]: <MrGameBlaze> xaero-waypoint:Shared Location:S:-657:136:-489:0:false:0:Internal-overworld-waypoints
 [22:11:18] [Server thread/INFO]: <MrGameBlaze> xaero-waypoint:Shared Location:S:286:63:-538:6:false:0:Internal-overworld-waypoints
+[22:21:27] [Server thread/INFO]: Norsx_ lost connection: ladilla
+[22:21:27] [Server thread/INFO]: Norsx_ left the game
+[22:21:27] [Server thread/INFO]: [MrGameBlaze: Kicked Norsx_: ladilla]
+[22:21:27] [Server thread/WARN]: handleDisconnection() called twice
+[22:21:32] [Server thread/INFO]: Norsx_[/100.84.44.112:62896] logged in with entity id 28021 at (-315.62674758798755, 54.0, -1176.2293234584147)
+[22:21:32] [Server thread/INFO]: Norsx_ joined the game
