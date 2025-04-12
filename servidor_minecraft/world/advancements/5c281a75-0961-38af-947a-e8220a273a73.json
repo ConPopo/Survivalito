@@ -3813,6 +3813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-12 21:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-12 21:29:37 +0000"
@@ -3846,6 +3852,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-12 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-12 21:37:52 +0000"
     },
     "done": true
   },
@@ -3885,6 +3897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-04-12 21:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-12 21:29:37 +0000"
@@ -3897,9 +3915,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-12 21:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-12 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-12 21:41:03 +0000"
     },
     "done": true
   },
