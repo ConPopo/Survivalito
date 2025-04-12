@@ -210,3 +210,15 @@
 [21:11:58] [c2me-worker-0/ERROR]: Detected setBlock in a far chunk [-100, -68], pos: class_2338{x=-1587, y=-3, z=-1088}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [21:12:02] [Server thread/INFO]: Norsx_ has made the advancement [Sneak 100]
 [21:12:16] [Server thread/INFO]: <Norsx_> xaero-waypoint:ancient city:A:-1758:66:-931:9:false:0:External
+[21:19:51] [Server thread/INFO]: Norsx_ was obliterated by a sonically-charged shriek
+[21:20:02] [Server thread/INFO]: [MrGameBlaze: Teleported Norsx_ to MrGameBlaze]
+[21:20:12] [Server thread/INFO]: Norsx_ was slain by Warden
+[21:20:15] [Server thread/INFO]: [MrGameBlaze: Teleported Norsx_ to MrGameBlaze]
+[21:20:25] [Server thread/INFO]: MrGameBlaze has made the advancement [Sneak 100]
+[21:20:40] [Server thread/INFO]: MrGameBlaze was obliterated by a sonically-charged shriek
+[21:20:46] [Server thread/INFO]: [MrGameBlaze: Teleported MrGameBlaze to Norsx_]
+[21:20:53] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Creative Mode]
+[21:20:54] [Server thread/INFO]: [MrGameBlaze: Set own game mode to Survival Mode]
+[21:21:31] [Server thread/INFO]: [MrGameBlaze: Teleported MrGameBlaze to Norsx_]
+[21:21:34] [Server thread/INFO]: [MrGameBlaze: Teleported MrGameBlaze to Norsx_]
+[21:22:30] [Server thread/INFO]: [MrGameBlaze: Teleported Norsx_ to MrGameBlaze]

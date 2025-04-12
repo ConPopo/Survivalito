@@ -17,8 +17,10 @@
       "minecraft:dripstone_caves": "2025-04-03 21:14:11 +0000",
       "minecraft:deep_cold_ocean": "2025-04-08 23:10:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-03 19:39:21 +0000",
+      "minecraft:deep_dark": "2025-04-12 21:18:38 +0000",
       "minecraft:ocean": "2025-04-06 19:12:22 +0000",
       "minecraft:sunflower_plains": "2025-04-03 21:47:02 +0000",
+      "minecraft:cherry_grove": "2025-04-12 21:13:58 +0000",
       "minecraft:meadow": "2025-04-03 21:48:24 +0000",
       "minecraft:birch_forest": "2025-04-03 19:39:45 +0000",
       "minecraft:plains": "2025-04-03 19:15:49 +0000"
@@ -3802,6 +3804,18 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-04-10 22:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-12 21:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-12 21:20:25 +0000"
     },
     "done": true
   },
