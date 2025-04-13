@@ -173,3 +173,6 @@
 [18:31:53] [Server thread/INFO]: Norsx_ lost connection: Timed out
 [18:31:53] [Server thread/INFO]: Norsx_ left the game
 [18:31:53] [Server thread/WARN]: handleDisconnection() called twice
+[18:32:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:33:53] [Server thread/INFO]: Norsx_[/100.84.44.112:60502] logged in with entity id 9058 at (407.89845739380183, 63.5, -402.5287085307032)
+[18:33:53] [Server thread/INFO]: Norsx_ joined the game
