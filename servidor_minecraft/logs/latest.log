@@ -170,3 +170,6 @@
 [18:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
 [18:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6083ms or 121 ticks behind
 [18:14:12] [Server thread/INFO]: <Norsx_> xaero-waypoint:granja de mobs:G:270:64:-223:1:false:0:External
+[18:31:53] [Server thread/INFO]: Norsx_ lost connection: Timed out
+[18:31:53] [Server thread/INFO]: Norsx_ left the game
+[18:31:53] [Server thread/WARN]: handleDisconnection() called twice
