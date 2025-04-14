@@ -204,3 +204,16 @@ Reason: Banned by an operator.
 [18:13:32] [Server thread/INFO]: Norsx_ joined the game
 [18:14:19] [Server thread/INFO]: Unbanned MrGameBlaze
 [18:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:38:47] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:63060] logged in with entity id 14299 at (-271.384053030202, 65.0, 49.96807300360397)
+[18:38:48] [Server thread/INFO]: MrGameBlaze joined the game
+[18:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[18:42:42] [Server thread/WARN]: MrGameBlaze moved too quickly! 17.037756395410042,-1.8525492480086996,-7.295758382897304
+[18:42:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6362ms or 127 ticks behind
+[18:42:57] [Server thread/WARN]: MrGameBlaze moved too quickly! 16.35582618516912,-3.5867721212352706,-6.703251379541598
+[18:43:02] [Server thread/WARN]: MrGameBlaze moved too quickly! 4.2152784175897295,-15.608601772013486,-6.853137812515172
+[18:43:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3578ms or 71 ticks behind
+[18:45:06] [Server thread/INFO]: <MrGameBlaze> xaero-waypoint:DESPEDIDA:D:746:70:-320:0:false:0:Internal-overworld-waypoints
+[18:45:08] [Server thread/INFO]: MrGameBlaze lost connection: Disconnected
+[18:45:08] [Server thread/INFO]: MrGameBlaze left the game
+[18:45:35] [Server thread/INFO]: Made Norsx_ a server operator
+[18:45:41] [Server thread/INFO]: [Norsx_: Teleported Norsx_ to 746.500000, 70.500000, -319.500000]
