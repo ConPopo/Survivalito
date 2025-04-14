@@ -1,5 +1,5 @@
-[14:51:25] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[14:51:26] [main/INFO]: Loading 78 mods:
+[16:29:39] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[16:29:39] [main/INFO]: Loading 78 mods:
 	- c2me 0.3.1.3.0+1.21.4
 	   |-- c2me-base 0.3.1.3.0+1.21.4
 	   |-- c2me-client-uncapvd 0.3.1.3.0+1.21.4
@@ -89,85 +89,75 @@
 	- nochatreports 1.21.4-v2.11.0
 	- skinrestorer 2.2.1+1.21-fabric
 	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-[14:51:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survivalito/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:51:27] [main/INFO]: Compatibility level set to JAVA_16
-[14:51:27] [main/INFO]: Compatibility level set to JAVA_18
-[14:51:27] [main/INFO]: Compatibility level set to JAVA_21
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[14:51:27] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[14:51:27] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[14:51:27] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[14:51:29] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[14:51:30] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:51:47] [main/INFO]: Loading Collective version 8.1.
-[14:51:48] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[14:51:50] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[14:51:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:51:56] [main/INFO]: Loaded 1370 recipes
-[14:51:56] [main/INFO]: Loaded 1481 advancements
-[14:51:56] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.624 ms
-[14:51:56] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:51:56] [Server thread/INFO]: Loading properties
-[14:51:56] [Server thread/INFO]: Default game type: SURVIVAL
-[14:51:56] [Server thread/INFO]: Generating keypair
-[14:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:57] [Server thread/INFO]: Using epoll channel type
-[14:51:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:51:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:51:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:51:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:51:57] [Server thread/INFO]: Preparing level "world"
-[14:51:57] [Server thread/INFO]: Enforcing safe world random access
-[14:51:59] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.173 s
-[14:51:59] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[14:51:59] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 13.93 ms
-[14:51:59] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 21.08 ms
-[14:51:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:08] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:09] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[14:52:10] [Server thread/INFO]: Preparing spawn area: 53%
-[14:52:10] [Server thread/INFO]: Time elapsed: 10721 ms
-[14:52:10] [Server thread/INFO]: Done (13.119s)! For help, type "help"
-[14:52:19] [Server thread/INFO]: Norsx_[/100.84.44.112:54767] logged in with entity id 21 at (-271.6049140475409, 63.0, 33.30000001192093)
-[14:52:19] [Server thread/INFO]: Norsx_ joined the game
-[14:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[14:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
-[15:04:01] [Server thread/INFO]: MrGameBlaze[/100.126.205.66:52439] logged in with entity id 8300 at (-277.70304549059915, 65.1959188364883, 21.038564149350012)
-[15:04:01] [Server thread/INFO]: MrGameBlaze joined the game
-[15:05:46] [Server thread/INFO]: [MrGameBlaze: Took 1 recipes from Norsx_]
-[15:05:53] [Server thread/INFO]: [MrGameBlaze: Unlocked 1 recipes for Norsx_]
+[16:29:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survivalito/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:29:39] [main/INFO]: Compatibility level set to JAVA_16
+[16:29:39] [main/INFO]: Compatibility level set to JAVA_18
+[16:29:39] [main/INFO]: Compatibility level set to JAVA_21
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[16:29:40] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:29:40] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[16:29:40] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[16:29:40] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[16:29:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:29:52] [main/INFO]: Loading Collective version 8.1.
+[16:29:53] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[16:29:53] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[16:29:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:29:57] [main/INFO]: Loaded 1370 recipes
+[16:29:57] [main/INFO]: Loaded 1481 advancements
+[16:29:57] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.910 ms
+[16:29:57] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[16:29:57] [Server thread/INFO]: Loading properties
+[16:29:57] [Server thread/INFO]: Default game type: SURVIVAL
+[16:29:57] [Server thread/INFO]: Generating keypair
+[16:29:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:29:57] [Server thread/INFO]: Using epoll channel type
+[16:29:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:29:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:29:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:29:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:29:57] [Server thread/INFO]: Preparing level "world"
+[16:29:58] [Server thread/INFO]: Enforcing safe world random access
+[16:29:59] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 630.1 ms
+[16:29:59] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[16:29:59] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 11.46 ms
+[16:29:59] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 10.31 ms
+[16:29:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:06] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[16:30:07] [Server thread/INFO]: Preparing spawn area: 4%
+[16:30:07] [Server thread/INFO]: Time elapsed: 7769 ms
+[16:30:07] [Server thread/INFO]: Done (9.276s)! For help, type "help"
+[16:30:38] [Server thread/INFO]: Norsx_[/100.84.44.112:55845] logged in with entity id 11 at (-30.777492548406276, 74.0, -85.30000001192093)
+[16:30:38] [Server thread/INFO]: Norsx_ joined the game
+[16:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[16:31:03] [Server thread/WARN]: Norsx_ moved too quickly! -3.451172943143426,9.154624724353951,-15.474450009431848
